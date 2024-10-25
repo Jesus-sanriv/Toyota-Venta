@@ -1,0 +1,93 @@
+	body{
+        margin: 0;
+    }
+    #head
+	{
+		width:1900px; 
+		height:150px;
+	}
+	#contenedor
+	{
+		width: 1890px; 
+		height:800px;
+	}
+	#logo
+	{
+		background-color: darkred; 
+		width:500px; 
+		height:150px; 
+		float:left; 
+		border: solid right
+	}
+    #slogan
+	{
+		background-color:darkred; 
+		width:1900px; 
+		height:150px;
+	}
+    #navegador
+	{
+		float: both; 
+		background-color:rgb(139, 139, 139);	
+	}
+	#principal
+	{
+		background-color: black; 
+		width:1900px; 
+		height:650px; 
+		float:left;
+	}
+	#contPrincipal
+	{
+		background-color: rgb(255, 255, 255); 
+		width:750px; 
+		height:600px;
+	}
+	#espacioTexto
+	{
+		background-color: rgb(255, 255, 255); 
+		width:550px; 
+		height:150px;
+	}
+	#paratexto
+	{
+		color: darkred;
+		font-family: sans-serif;
+		text-align: justify;
+	}
+	h1.titulos
+	{
+		text-align: center;
+		color: blue;
+	}
+	h1.headerTitulo
+	{
+		font-family: Georgia, serif;
+	}
+	a.aside
+	{
+		color: green;
+		font-size: 23px;
+		text-decoration: none;
+	}
+	a.nav
+	{
+		color: black;
+		font-size: larger;
+		text-decoration: none;
+	}
+	#aside
+	{
+		background-color: rgb(184, 184, 184);
+		width:200px; 
+		height:650px; 
+		float: left;
+	}
+	#footer
+	{
+		background-color:rgb(112, 112, 112); 
+		color: white; 
+		width: 1900px; 
+		height:100px; 
+		float:left;
+	}
